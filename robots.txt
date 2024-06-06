@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kmafr.github.io/sitemap/sitemap.txt
